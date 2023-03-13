@@ -1,5 +1,6 @@
 #nullable enable
 
+using System;
 using System.Collections.Generic;
 using Stenn.Csv;
 
@@ -17,12 +18,14 @@ namespace Stenn.TestModel.Domain.Tests.Entities.Declarations
                 new Country(data.Alpha2Code,
                     data.Name,
                     CsvConverter.NullOrEmpty(data.Alpha3Code),
-                    CsvConverter.NullOrEmpty(data.Numeric3Code))
+                    CsvConverter.NullOrEmpty(data.Numeric3Code),
+                    data.NominalGnp ?? 0,
+                    data.Created ?? DateTime.UtcNow)
                 {
                     IsInEuropeanUnion = CsvConverter.Bool(data.IsInEuropeanUnion),
                     FlagId = data.FlagId,
                     PhoneCode = data.PhoneCode,
-                    AlternativeNames = CsvConverter.NullOrEmpty(data.AlternativeNames)
+                    AlternativeNames = CsvConverter.NullOrEmpty(data.AlternativeNames),
                 });
         }
 
@@ -39,6 +42,8 @@ namespace Stenn.TestModel.Domain.Tests.Entities.Declarations
             public string? FlagId { get; set; }
             public string? PhoneCode { get; set; }
             public string? AlternativeNames { get; set; }
+            public decimal? NominalGnp { get; set; }
+            public DateTime? Created { get; set; }
         }
     }
 }

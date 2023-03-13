@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <PackageReference Include="Seedwork.Network.Rpc.Http" />
+    <PackageReference Include="Seedwork.Network.Rpc.Http.AspNet" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Stenn.TestModel.AppService.Contracts\Stenn.TestModel.AppService.Contracts.csproj" />
+    <ProjectReference Include="..\Stenn.TestModel.Domain.Tests\Stenn.TestModel.Domain.Tests.csproj" />
+  </ItemGroup>
+
+</Project>

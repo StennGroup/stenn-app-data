@@ -1,3 +1,5 @@
+using System;
+
 namespace Stenn.AppData.Contracts
 {
     /// <summary>

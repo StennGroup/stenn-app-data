@@ -1,3 +1,5 @@
+using System;
+
 namespace Stenn.TestModel.Domain.Tests.Entities
 {
 #if NET6_0_OR_GREATER
@@ -19,12 +21,15 @@ namespace Stenn.TestModel.Domain.Tests.Entities
         /// <param name="name"></param>
         /// <param name="alpha3Code"></param>
         /// <param name="numeric3Code"></param>
-        public Country(string id, string name, string alpha3Code, string numeric3Code)
+        /// <param name="nominalGnp"></param>
+        public Country(string id, string name, string alpha3Code, string numeric3Code, decimal nominalGnp, DateTime created)
         {
             Id = id;
             Name = name;
             Alpha3Code = alpha3Code;
             Numeric3Code = numeric3Code;
+            NominalGnp = nominalGnp;
+            Created = created;
         }
 
         /// <summary>
@@ -63,5 +68,15 @@ namespace Stenn.TestModel.Domain.Tests.Entities
         /// Alternative country's names. Semicolon separated
         /// </summary>
         public string AlternativeNames { get; init; }
+
+        /// <summary>
+        /// Country's nominal GNP
+        /// </summary>
+        public decimal NominalGnp { get; set; }
+
+        /// <summary>
+        /// Country's record creation date
+        /// </summary>
+        public DateTime Created { get; set; }
     }
 }

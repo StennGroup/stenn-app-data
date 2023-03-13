@@ -6,6 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Seedwork.Network.Rpc.Abstractions" />
+    <PackageReference Include="Seedwork.Network.Contracts" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="build\*.*" PackagePath="build\" Pack="true" />
     <None Include="buildMultiTargeting\*.*" PackagePath="buildMultiTargeting\" Pack="true" />
   </ItemGroup>

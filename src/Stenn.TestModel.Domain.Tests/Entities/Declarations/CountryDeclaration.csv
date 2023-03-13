@@ -1,194 +1,194 @@
-Name,Alpha2Code,Alpha3Code,Numeric3Code,IsInEuropeanUnion,FlagId,PhoneCode,AlternativeNames
-Angola,AO,AGO,024,false,🇦🇴,+244,
-Antigua and Barbuda,AG,ATG,028,false,🇦🇬,+1268,
-Argentina,AR,ARG,032,false,🇦🇷,+54,
-Armenia,AM,ARM,051,false,🇦🇲,+374,
-Aruba,AW,ABW,533,false,🇦🇼,+297,
-Australia,AU,AUS,036,false,🇦🇺,+61,
-Austria,AT,AUT,040,true,🇦🇹,+43,
-Azerbaijan,AZ,AZE,031,false,🇦🇿,+994,
-Bahamas,BS,BHS,044,false,🇧🇸,+1242,
-Bahrain,BH,BHR,048,false,🇧🇭,+973,
-Bangladesh,BD,BGD,050,false,🇧🇩,+880,
-Barbados,BB,BRB,052,false,🇧🇧,+1246,
-Belarus,BY,BLR,112,false,🇧🇾,+375,
-Belgium,BE,BEL,056,true,🇧🇪,+32,
-Belize,BZ,BLZ,084,false,🇧🇿,+501,
-Benin,BJ,BEN,204,false,🇧🇯,+229,
-Bermuda,BM,BMU,060,false,🇧🇲,+1441,
-Bhutan,BT,BTN,064,false,🇧🇹,+975,
-Bolivia,BO,BOL,068,false,🇧🇴,+591,
-Bosnia and Herzegovina,BA,BIH,070,false,🇧🇦,+387,
-Botswana,BW,BWA,072,false,🇧🇼,+267,
-Brazil,BR,BRA,076,false,🇧🇷,+55,
-Brunei,BN,BRN,096,false,🇧🇳,+673,
-Bulgaria,BG,BGR,100,true,🇧🇬,+359,
-Burkina Faso,BF,BFA,854,false,🇧🇫,+226,
-Burundi,BI,BDI,108,false,🇧🇮,+257,
-Cambodia,KH,KHM,116,false,🇰🇭,+855,
-Cameroon,CM,CMR,120,false,🇨🇲,+237,
-Canada,CA,CAN,124,false,🇨🇦,+1,
-Cayman Islands,KY,CYM,136,false,🇰🇾,+345,
-Central African Republic,CF,CAF,140,false,🇨🇫,+236,
-Chad,TD,TCD,148,false,🇹🇩,+235,
-Chile,CL,CHL,152,false,🇨🇱,+56,
-China,CN,CHN,156,false,🇨🇳,+86,
-Colombia,CO,COL,170,false,🇨🇴,+57,
-Comoros,KM,COM,174,false,🇰🇲,+269,
-"Congo, Democratic Republic of the",CD,COD,180,false,🇨🇩,+243,
-"Congo, Republic of the",CG,COG,178,false,🇨🇬,+242,
-Costa Rica,CR,CRI,188,false,🇨🇷,+506,
-Cote d'Ivoire,CI,CIV,384,false,🇨🇮,+225,
-Croatia,HR,HRV,191,true,🇭🇷,+385,
-Cuba,CU,CUB,192,false,🇨🇺,+53,
-Cyprus,CY,CYP,196,true,🇨🇾,+357,
-Czech Republic,CZ,CZE,203,true,🇨🇿,+420,
-Denmark,DK,DNK,208,true,🇩🇰,+45,
-Djibouti,DJ,DJI,262,false,🇩🇯,+253,
-Dominica,DM,DMA,212,false,🇩🇲,+1767,
-Dominican Republic,DO,DOM,214,false,🇩🇴,+1849,
-Ecuador,EC,ECU,218,false,🇪🇨,+593,
-Egypt,EG,EGY,818,false,🇪🇬,+20,
-El Salvador,SV,SLV,222,false,🇸🇻,+503,
-Equatorial Guinea,GQ,GNQ,226,false,🇬🇶,+240,
-Eritrea,ER,ERI,232,false,🇪🇷,+291,
-Estonia,EE,EST,233,true,🇪🇪,+372,
-Ethiopia,ET,ETH,231,false,🇪🇹,+251,
-Fiji,FJ,FJI,242,false,🇫🇯,+679,
-Finland,FI,FIN,246,true,🇫🇮,+358,
-France,FR,FRA,250,true,🇫🇷,+33,
-Gabon,GA,GAB,266,false,🇬🇦,+241,
-Gambia,GM,GMB,270,false,🇬🇲,+220,
-Georgia,GE,GEO,268,false,🇬🇪,+995,
-Germany,DE,DEU,276,true,🇩🇪,+49,
-Ghana,GH,GHA,288,false,🇬🇭,+233,
-Greece,GR,GRC,300,true,🇬🇷,+30,
-Grenada,GD,GRD,308,false,🇬🇩,+1473,
-Guatemala,GT,GTM,320,false,🇬🇹,+502,
-Guinea,GN,GIN,324,false,🇬🇳,+224,
-Guinea-Bissau,GW,GNB,624,false,🇬🇼,+245,
-Guyana,GY,GUY,328,false,🇬🇾,+592,
-Haiti,HT,HTI,332,false,🇭🇹,+509,
-Holy See,VA,VAT,336,false,🇻🇦,+379,
-Honduras,HN,HND,340,false,🇭🇳,+504,
-Hong Kong,HK,HKG,344,false,🇭🇰,+852,
-Hungary,HU,HUN,348,true,🇭🇺,+36,
-Iceland,IS,ISL,352,false,🇮🇸,+354,
-India,IN,IND,356,false,🇮🇳,+91,
-Indonesia,ID,IDN,360,false,🇮🇩,+62,
-Iran,IR,IRN,364,false,🇮🇷,+98,
-Iraq,IQ,IRQ,368,false,🇮🇶,+964,
-Ireland,IE,IRL,372,true,🇮🇪,+353,
-Israel,IL,ISR,376,false,🇮🇱,+972,
-Italy,IT,ITA,380,true,🇮🇹,+39,
-Jamaica,JM,JAM,388,false,🇯🇲,+1876,
-Japan,JP,JPN,392,false,🇯🇵,+81,
-Jordan,JO,JOR,400,false,🇯🇴,+962,
-Kazakhstan,KZ,KAZ,398,false,🇰🇿,+7,
-Kenya,KE,KEN,404,false,🇰🇪,+254,
-Kiribati,KI,KIR,296,false,🇰🇮,+686,
-Kosovo,XK,,,false,🇽🇰,+383,
-Kuwait,KW,KWT,414,false,🇰🇼,+965,
-Kyrgyzstan,KG,KGZ,417,false,🇰🇬,+996,
-Laos,LA,LAO,418,false,🇱🇦,+856,
-Latvia,LV,LVA,428,true,🇱🇻,+371,
-Lebanon,LB,LBN,422,false,🇱🇧,+961,
-Lesotho,LS,LSO,426,false,🇱🇸,+266,
-Liberia,LR,LBR,430,false,🇱🇷,+231,
-Libya,LY,LBY,434,false,🇱🇾,+218,
-Liechtenstein,LI,LIE,438,false,🇱🇮,+423,
-Lithuania,LT,LTU,440,true,🇱🇹,+370,
-Luxembourg,LU,LUX,442,true,🇱🇺,+352,
-Macau,MO,MAC,446,false,🇲🇴,+853,
-Macedonia,MK,MKD,807,false,🇲🇰,+389,
-Madagascar,MG,MDG,450,false,🇲🇬,+261,
-Malawi,MW,MWI,454,false,🇲🇼,+265,
-Malaysia,MY,MYS,458,false,🇲🇾,+60,
-Maldives,MV,MDV,462,false,🇲🇻,+960,
-Mali,ML,MLI,466,false,🇲🇱,+223,
-Malta,MT,MLT,470,true,🇲🇹,+356,
-Marshall Islands,MH,MHL,584,false,🇲🇭,+692,
-Mauritania,MR,MRT,478,false,🇲🇷,+222,
-Mauritius,MU,MUS,480,false,🇲🇺,+230,
-Mexico,MX,MEX,484,false,🇲🇽,+52,
-Micronesia,FM,FSM,583,false,🇫🇲,+691,
-Moldova,MD,MDA,498,false,🇲🇩,+373,
-Monaco,MC,MCO,492,false,🇲🇨,+377,
-Mongolia,MN,MNG,496,false,🇲🇳,+976,
-Montenegro,ME,MNE,499,false,🇲🇪,+382,
-Morocco,MA,MAR,504,false,🇲🇦,+212,
-Mozambique,MZ,MOZ,508,false,🇲🇿,+258,
-Namibia,NA,NAM,516,false,🇳🇦,+264,
-Nauru,NR,NRU,520,false,🇳🇷,+674,
-Nepal,NP,NPL,524,false,🇳🇵,+977,
-Netherlands,NL,NLD,528,true,🇳🇱,+31,
-New Zealand,NZ,NZL,554,false,🇳🇿,+64,
-Nicaragua,NI,NIC,558,false,🇳🇮,+505,
-Niger,NE,NER,562,false,🇳🇪,+227,
-Nigeria,NG,NGA,566,false,🇳🇬,+234,
-North Korea,KP,PRK,408,false,🇰🇵,+850,
-Norway,NO,NOR,578,false,🇳🇴,+47,
-Oman,OM,OMN,512,false,🇴🇲,+968,
-Pakistan,PK,PAK,586,false,🇵🇰,+92,
-Palau,PW,PLW,585,false,🇵🇼,+680,
-Palestinian Territories,PS,PSE,275,false,🇵🇸,+970,
-Panama,PA,PAN,591,false,🇵🇦,+507,
-Papua New Guinea,PG,PNG,598,false,🇵🇬,+675,
-Paraguay,PY,PRY,600,false,🇵🇾,+595,
-Peru,PE,PER,604,false,🇵🇪,+51,
-Philippines,PH,PHL,608,false,🇵🇭,+63,
-Poland,PL,POL,616,true,🇵🇱,+48,
-Portugal,PT,PRT,620,true,🇵🇹,+351,
-Qatar,QA,QAT,634,false,🇶🇦,+974,
-Romania,RO,ROU,642,true,🇷🇴,+40,
-Russia,RU,RUS,643,false,🇷🇺,+7,
-Rwanda,RW,RWA,646,false,🇷🇼,+250,
-Saint Kitts and Nevis,KN,KNA,659,false,🇰🇳,+1869,
-Saint Lucia,LC,LCA,662,false,🇱🇨,+1758,
-Saint Vincent and the Grenadines,VC,VCT,670,false,🇻🇨,+1784,
-Samoa,WS,WSM,882,false,🇼🇸,+685,
-San Marino,SM,SMR,674,false,🇸🇲,+378,
-Sao Tome and Principe,ST,STP,678,false,🇸🇹,+239,
-Saudi Arabia,SA,SAU,682,false,🇸🇦,+966,
-Senegal,SN,SEN,686,false,🇸🇳,+221,
-Serbia,RS,SRB,688,false,🇷🇸,+381,
-Seychelles,SC,SYC,690,false,🇸🇨,+248,
-Sierra Leone,SL,SLE,694,false,🇸🇱,+232,
-Singapore,SG,SGP,702,false,🇸🇬,+65,
-Slovakia,SK,SVK,703,true,🇸🇰,+421,
-Slovenia,SI,SVN,705,true,🇸🇮,+386,
-Solomon Islands,SB,SLB,090,false,🇸🇧,+677,
-Somalia,SO,SOM,706,false,🇸🇴,+252,
-South Africa,ZA,ZAF,710,false,🇿🇦,+27,
-South Korea,KR,KOR,410,false,🇰🇷,+82,
-Spain,ES,ESP,724,true,🇪🇸,+34,
-Sri Lanka,LK,LKA,144,false,🇱🇰,+94,
-Sudan,SD,SDN,729,false,🇸🇩,+249,
-Suriname,SR,SUR,740,false,🇸🇷,+597,
-Swaziland,SZ,SWZ,748,false,🇸🇿,+268,
-Sweden,SE,SWE,752,true,🇸🇪,+46,
-Switzerland,CH,CHE,756,false,🇨🇭,+41,
-Syria,SY,SYR,760,false,🇸🇾,+963,
-Taiwan,TW,TWN,158,false,🇹🇼,+886,
-Tajikistan,TJ,TJK,762,false,🇹🇯,+992,
-Tanzania,TZ,TZA,834,false,🇹🇿,+255,
-Thailand,TH,THA,764,false,🇹🇭,+66,
-Togo,TG,TGO,768,false,🇹🇬,+228,
-Tonga,TO,TON,776,false,🇹🇴,+676,
-Trinidad and Tobago,TT,TTO,780,false,🇹🇹,+1868,
-Tunisia,TN,TUN,788,false,🇹🇳,+216,
-Turkey,TR,TUR,792,false,🇹🇷,+90,
-Turkmenistan,TM,TKM,795,false,🇹🇲,+993,
-Tuvalu,TV,TUV,798,false,🇹🇻,+688,
-Uganda,UG,UGA,800,false,🇺🇬,+256,
-Ukraine,UA,UKR,804,false,🇺🇦,+380,
-United Arab Emirates,AE,AR3,784,false,🇦🇪,+971,
-United Kingdom,GB,GBR,826,true,🇬🇧,+44,
-United States of America,US,USA,840,false,🇺🇸,+1,United States
-Uruguay,UY,URY,858,false,🇺🇾,+598,
-Uzbekistan,UZ,UZB,860,false,🇺🇿,+998,
-Vanuatu,VU,VUT,548,false,🇻🇺,+678,
-Venezuela,VE,VEN,862,false,🇻🇪,+58,
-Vietnam,VN,VNM,704,false,🇻🇳,+84,
-Yemen,YE,YEM,887,false,🇾🇪,+967,
-Zambia,ZM,ZMB,894,false,🇿🇲,+260,
+Name,Alpha2Code,Alpha3Code,Numeric3Code,IsInEuropeanUnion,FlagId,PhoneCode,AlternativeNames,NominalGnp,Created
+Angola,AO,AGO,24,FALSE,🇦🇴,244,,2230,2016-11-18 17:46:40.0000000
+Antigua and Barbuda,AG,ATG,28,FALSE,🇦🇬,1268,,14250,2017-10-23 11:57:11.0000000
+Argentina,AR,ARG,32,FALSE,🇦🇷,54,,8930,2016-11-11 08:53:03.0000000
+Armenia,AM,ARM,51,FALSE,🇦🇲,374,,4220,2018-05-01 18:22:29.0000000
+Aruba,AW,ABW,533,FALSE,🇦🇼,297,,23630,2018-05-01 18:22:31.0000000
+Australia,AU,AUS,36,FALSE,🇦🇺,61,,53730,2016-11-11 08:53:03.0000000
+Austria,AT,AUT,40,TRUE,🇦🇹,43,,51440,2017-07-27 13:17:39.0000000
+Azerbaijan,AZ,AZE,31,FALSE,🇦🇿,994,,4450,2018-05-01 18:22:31.0000000
+Bahamas,BS,BHS,44,FALSE,🇧🇸,1242,,27780,2018-05-01 18:22:35.0000000
+Bahrain,BH,BHR,48,FALSE,🇧🇭,973,,22170,2018-05-01 18:22:33.0000000
+Bangladesh,BD,BGD,50,FALSE,🇧🇩,880,,2010,2018-05-01 18:22:32.0000000
+Barbados,BB,BRB,52,FALSE,🇧🇧,1246,,14460,2018-05-01 18:22:32.0000000
+Belarus,BY,BLR,112,FALSE,🇧🇾,375,,6330,2018-05-01 18:22:35.0000000
+Belgium,BE,BEL,56,TRUE,🇧🇪,32,,47950,2016-11-11 08:53:03.0000000
+Belize,BZ,BLZ,84,FALSE,🇧🇿,501,,3970,2018-05-01 18:22:36.0000000
+Benin,BJ,BEN,204,FALSE,🇧🇯,229,,1280,2018-05-01 18:22:33.0000000
+Bermuda,BM,BMU,60,FALSE,🇧🇲,1441,,117740,2018-05-01 18:22:34.0000000
+Bhutan,BT,BTN,64,FALSE,🇧🇹,975,,2860,2018-05-01 18:22:35.0000000
+Bolivia,BO,BOL,68,FALSE,🇧🇴,591,,3200,2018-05-01 18:22:34.0000000
+Bosnia and Herzegovina,BA,BIH,70,FALSE,🇧🇦,387,,6090,2018-05-01 18:22:31.0000000
+Botswana,BW,BWA,72,FALSE,🇧🇼,267,,6640,2018-05-01 18:22:35.0000000
+Brazil,BR,BRA,76,FALSE,🇧🇷,55,,7850,2016-11-11 08:53:03.0000000
+Brunei,BN,BRN,96,FALSE,🇧🇳,673,,32230,2018-05-01 18:22:34.0000000
+Bulgaria,BG,BGR,100,TRUE,🇧🇬,359,,9540,2016-11-18 17:57:42.0000000
+Burkina Faso,BF,BFA,854,FALSE,🇧🇫,226,,790,2018-05-01 18:22:32.0000000
+Burundi,BI,BDI,108,FALSE,🇧🇮,257,,270,2018-05-01 18:22:33.0000000
+Cambodia,KH,KHM,116,FALSE,🇰🇭,855,,1490,2018-05-01 18:22:46.0000000
+Cameroon,CM,CMR,120,FALSE,🇨🇲,237,,1500,2018-05-01 18:22:37.0000000
+Canada,CA,CAN,124,FALSE,🇨🇦,1,,43440,2016-11-11 08:53:03.0000000
+Cayman Islands,KY,CYM,136,FALSE,🇰🇾,345,,68200,2018-04-09 10:49:43.0000000
+Central African Republic,CF,CAF,140,FALSE,🇨🇫,236,,510,2018-05-01 18:22:36.0000000
+Chad,TD,TCD,148,FALSE,🇹🇩,235,,660,2018-05-01 18:23:03.0000000
+Chile,CL,CHL,152,FALSE,🇨🇱,56,,13470,2016-11-11 08:53:03.0000000
+China,CN,CHN,156,FALSE,🇨🇳,86,,10610,2016-11-11 08:53:03.0000000
+Colombia,CO,COL,170,FALSE,🇨🇴,57,,5780,2016-11-11 08:53:03.0000000
+Comoros,KM,COM,174,FALSE,🇰🇲,269,,1450,2018-05-01 18:22:47.0000000
+"Congo, Democratic Republic of the",CD,COD,180,FALSE,🇨🇩,243,,550,2017-10-23 11:58:16.0000000
+"Congo, Republic of the",CG,COG,178,FALSE,🇨🇬,242,,1830,2018-05-01 18:22:37.0000000
+Costa Rica,CR,CRI,188,FALSE,🇨🇷,506,,11460,2017-06-20 17:07:07.0000000
+Cote d'Ivoire,CI,CIV,384,FALSE,🇨🇮,225,,2280,2018-05-01 18:22:37.0000000
+Croatia,HR,HRV,191,TRUE,🇭🇷,385,,14190,2017-11-17 14:39:44.0000000
+Cuba,CU,CUB,192,FALSE,🇨🇺,53,,,2018-05-01 18:22:38.0000000
+Cyprus,CY,CYP,196,TRUE,🇨🇾,357,,26110,2016-12-14 14:44:50.0000000
+Czech Republic,CZ,CZE,203,TRUE,🇨🇿,420,,21930,2016-11-11 08:53:03.0000000
+Denmark,DK,DNK,208,TRUE,🇩🇰,45,,62720,2016-11-11 08:53:03.0000000
+Djibouti,DJ,DJI,262,FALSE,🇩🇯,253,,3320,2018-05-01 18:22:38.0000000
+Dominica,DM,DMA,212,FALSE,🇩🇲,1767,,6870,2018-05-01 18:22:39.0000000
+Dominican Republic,DO,DOM,214,FALSE,🇩🇴,1849,,7260,2017-06-20 17:40:37.0000000
+Ecuador,EC,ECU,218,FALSE,🇪🇨,593,,5530,2016-11-11 08:53:03.0000000
+Egypt,EG,EGY,818,FALSE,🇪🇬,20,,3000,2017-11-09 15:17:54.0000000
+El Salvador,SV,SLV,222,FALSE,🇸🇻,503,,3650,2017-06-20 16:22:41.0000000
+Equatorial Guinea,GQ,GNQ,226,FALSE,🇬🇶,240,,5810,2018-05-01 18:22:42.0000000
+Eritrea,ER,ERI,232,FALSE,🇪🇷,291,,,2018-05-01 18:22:40.0000000
+Estonia,EE,EST,233,TRUE,🇪🇪,372,,23250,2018-05-01 18:22:39.0000000
+Ethiopia,ET,ETH,231,FALSE,🇪🇹,251,,890,2018-05-01 18:22:40.0000000
+Fiji,FJ,FJI,242,FALSE,🇫🇯,679,,4720,2018-05-01 18:22:40.0000000
+Finland,FI,FIN,246,TRUE,🇫🇮,358,,49620,2016-11-11 08:53:03.0000000
+France,FR,FRA,250,TRUE,🇫🇷,33,,42460,2016-11-11 08:53:03.0000000
+Gabon,GA,GAB,266,FALSE,🇬🇦,241,,6970,2018-05-01 18:22:41.0000000
+Gambia,GM,GMB,270,FALSE,🇬🇲,220,,750,2018-05-01 18:22:42.0000000
+Georgia,GE,GEO,268,FALSE,🇬🇪,995,,4290,2018-05-01 18:22:41.0000000
+Germany,DE,DEU,276,TRUE,🇩🇪,49,,46980,2016-11-11 08:53:03.0000000
+Ghana,GH,GHA,288,FALSE,🇬🇭,233,,2230,2017-08-14 15:01:05.0000000
+Greece,GR,GRC,300,TRUE,🇬🇷,30,,19750,2017-01-11 17:40:46.0000000
+Grenada,GD,GRD,308,FALSE,🇬🇩,1473,,8740,2018-05-01 18:22:41.0000000
+Guatemala,GT,GTM,320,FALSE,🇬🇹,502,,4490,2017-06-20 16:50:26.0000000
+Guinea,GN,GIN,324,FALSE,🇬🇳,224,,1020,2018-05-01 18:22:42.0000000
+Guinea-Bissau,GW,GNB,624,FALSE,🇬🇼,245,,760,2018-05-01 18:22:43.0000000
+Guyana,GY,GUY,328,FALSE,🇬🇾,592,,6600,2018-05-01 18:22:43.0000000
+Haiti,HT,HTI,332,FALSE,🇭🇹,509,,1250,2018-05-01 18:22:44.0000000
+Holy See,VA,VAT,336,FALSE,🇻🇦,379,,,2018-05-01 18:23:07.0000000
+Honduras,HN,HND,340,FALSE,🇭🇳,504,,2200,2017-09-21 13:23:53.0000000
+Hong Kong,HK,HKG,344,FALSE,🇭🇰,852,,48630,2016-11-11 08:53:03.0000000
+Hungary,HU,HUN,348,TRUE,🇭🇺,36,,16500,2016-11-11 08:53:03.0000000
+Iceland,IS,ISL,352,FALSE,🇮🇸,354,,73000,2018-05-01 18:22:45.0000000
+India,IN,IND,356,FALSE,🇮🇳,91,,1900,2017-03-31 14:35:36.0000000
+Indonesia,ID,IDN,360,FALSE,🇮🇩,62,,3870,2017-09-13 14:49:52.0000000
+Iran,IR,IRN,364,FALSE,🇮🇷,98,,2870,2018-05-01 18:22:45.0000000
+Iraq,IQ,IRQ,368,FALSE,🇮🇶,964,,4660,2018-05-01 18:22:44.0000000
+Ireland,IE,IRL,372,TRUE,🇮🇪,353,,64100,2016-11-11 08:53:03.0000000
+Israel,IL,ISR,376,FALSE,🇮🇱,972,,43100,2017-03-29 16:49:39.0000000
+Italy,IT,ITA,380,TRUE,🇮🇹,39,,32200,2016-11-11 08:53:03.0000000
+Jamaica,JM,JAM,388,FALSE,🇯🇲,1876,,4620,2018-05-01 18:22:45.0000000
+Japan,JP,JPN,392,FALSE,🇯🇵,81,,41580,2016-11-11 08:53:03.0000000
+Jordan,JO,JOR,400,FALSE,🇯🇴,962,,4310,2018-05-01 18:22:46.0000000
+Kazakhstan,KZ,KAZ,398,FALSE,🇰🇿,7,,8680,2018-04-25 17:22:07.0000000
+Kenya,KE,KEN,404,FALSE,🇰🇪,254,,1760,2018-05-01 18:22:46.0000000
+Kiribati,KI,KIR,296,FALSE,🇰🇮,686,,3010,2018-05-01 18:22:47.0000000
+Kosovo,XK,,,FALSE,🇽🇰,383,,,2018-05-01 18:22:48.0000000
+Kuwait,KW,KWT,414,FALSE,🇰🇼,965,,36290,2018-05-01 18:22:48.0000000
+Kyrgyzstan,KG,KGZ,417,FALSE,🇰🇬,996,,1160,2018-05-01 18:22:46.0000000
+Laos,LA,LAO,418,FALSE,🇱🇦,856,,2480,2018-05-01 18:22:49.0000000
+Latvia,LV,LVA,428,TRUE,🇱🇻,371,,17730,2016-11-28 09:26:17.0000000
+Lebanon,LB,LBN,422,FALSE,🇱🇧,961,,5510,2018-05-01 18:22:49.0000000
+Lesotho,LS,LSO,426,FALSE,🇱🇸,266,,1100,2018-05-01 18:22:50.0000000
+Liberia,LR,LBR,430,FALSE,🇱🇷,231,,530,2018-05-01 18:22:50.0000000
+Libya,LY,LBY,434,FALSE,🇱🇾,218,,4850,2018-05-01 18:22:51.0000000
+Liechtenstein,LI,LIE,438,FALSE,🇱🇮,423,,,2018-05-01 18:22:50.0000000
+Lithuania,LT,LTU,440,TRUE,🇱🇹,370,,19030,2018-05-01 18:22:50.0000000
+Luxembourg,LU,LUX,442,TRUE,🇱🇺,352,,73900,2017-07-11 13:14:24.0000000
+Macau,MO,MAC,446,FALSE,🇲🇴,853,,75610,2017-11-21 20:35:10.0000000
+Macedonia,MK,MKD,807,FALSE,🇲🇰,389,,5720,2018-05-01 18:22:53.0000000
+Madagascar,MG,MDG,450,FALSE,🇲🇬,261,,480,2018-05-01 18:22:52.0000000
+Malawi,MW,MWI,454,FALSE,🇲🇼,265,,580,2018-05-01 18:22:55.0000000
+Malaysia,MY,MYS,458,FALSE,🇲🇾,60,,10580,2017-06-27 04:45:02.0000000
+Maldives,MV,MDV,462,FALSE,🇲🇻,960,,6830,2016-11-18 17:47:08.0000000
+Mali,ML,MLI,466,FALSE,🇲🇱,223,,830,2018-05-01 18:22:53.0000000
+Malta,MT,MLT,470,TRUE,🇲🇹,356,,25370,2018-05-01 18:22:54.0000000
+Marshall Islands,MH,MHL,584,FALSE,🇲🇭,692,,5010,2018-05-01 18:22:52.0000000
+Mauritania,MR,MRT,478,FALSE,🇲🇷,222,,1640,2018-05-01 18:22:54.0000000
+Mauritius,MU,MUS,480,FALSE,🇲🇺,230,,10230,2018-05-01 18:22:54.0000000
+Mexico,MX,MEX,484,FALSE,🇲🇽,52,,8480,2016-11-11 08:53:03.0000000
+Micronesia,FM,FSM,583,FALSE,🇫🇲,691,,4010,2018-05-01 18:22:41.0000000
+Moldova,MD,MDA,498,FALSE,🇲🇩,373,,4570,2018-05-01 18:22:52.0000000
+Monaco,MC,MCO,492,FALSE,🇲🇨,377,,,2017-10-25 13:06:09.0000000
+Mongolia,MN,MNG,496,FALSE,🇲🇳,976,,3670,2018-01-17 08:43:14.0000000
+Montenegro,ME,MNE,499,FALSE,🇲🇪,382,,7900,2018-05-01 18:22:52.0000000
+Morocco,MA,MAR,504,FALSE,🇲🇦,212,,2980,2017-09-27 05:30:10.0000000
+Mozambique,MZ,MOZ,508,FALSE,🇲🇿,258,,460,2018-05-01 18:22:55.0000000
+Namibia,NA,NAM,516,FALSE,🇳🇦,264,,4520,2018-05-01 18:22:55.0000000
+Nauru,NR,NRU,520,FALSE,🇳🇷,674,,16630,2018-05-01 18:22:57.0000000
+Nepal,NP,NPL,524,FALSE,🇳🇵,977,,1190,2018-05-01 18:22:57.0000000
+Netherlands,NL,NLD,528,TRUE,🇳🇱,31,,53060,2016-11-11 08:53:03.0000000
+New Zealand,NZ,NZL,554,FALSE,🇳🇿,64,,42220,2017-07-27 14:23:49.0000000
+Nicaragua,NI,NIC,558,FALSE,🇳🇮,505,,1850,2018-05-01 18:22:56.0000000
+Niger,NE,NER,562,FALSE,🇳🇪,227,,540,2018-05-01 18:22:56.0000000
+Nigeria,NG,NGA,566,FALSE,🇳🇬,234,,2000,2018-05-01 18:22:56.0000000
+North Korea,KP,PRK,408,FALSE,🇰🇵,850,,,2018-05-01 18:22:48.0000000
+Norway,NO,NOR,578,FALSE,🇳🇴,47,,78250,2016-11-11 08:53:03.0000000
+Oman,OM,OMN,512,FALSE,🇴🇲,968,,14150,2018-05-01 18:22:57.0000000
+Pakistan,PK,PAK,586,FALSE,🇵🇰,92,,1280,2016-12-02 08:21:06.0000000
+Palau,PW,PLW,585,FALSE,🇵🇼,680,,16500,2018-05-01 18:22:59.0000000
+Palestinian Territories,PS,PSE,275,FALSE,🇵🇸,970,,3710,2018-05-01 18:22:59.0000000
+Panama,PA,PAN,591,FALSE,🇵🇦,507,,11880,2017-05-09 09:08:01.0000000
+Papua New Guinea,PG,PNG,598,FALSE,🇵🇬,675,,2660,2018-05-01 18:22:58.0000000
+Paraguay,PY,PRY,600,FALSE,🇵🇾,595,,5140,2017-05-29 03:45:32.0000000
+Peru,PE,PER,604,FALSE,🇵🇪,51,,6010,2016-11-11 08:53:03.0000000
+Philippines,PH,PHL,608,FALSE,🇵🇭,63,,3430,2017-03-05 16:34:03.0000000
+Poland,PL,POL,616,TRUE,🇵🇱,48,,15270,2016-11-11 08:53:03.0000000
+Portugal,PT,PRT,620,TRUE,🇵🇹,351,,22000,2017-06-13 19:58:38.0000000
+Qatar,QA,QAT,634,FALSE,🇶🇦,974,,56210,2017-10-04 15:17:54.0000000
+Romania,RO,ROU,642,TRUE,🇷🇴,40,,12570,2016-11-11 08:53:03.0000000
+Russia,RU,RUS,643,FALSE,🇷🇺,7,,10690,2018-05-01 18:23:00.0000000
+Rwanda,RW,RWA,646,FALSE,🇷🇼,250,,780,2018-05-01 18:23:00.0000000
+Saint Kitts and Nevis,KN,KNA,659,FALSE,🇰🇳,1869,,17400,2018-05-01 18:22:47.0000000
+Saint Lucia,LC,LCA,662,FALSE,🇱🇨,1758,,8790,2018-05-01 18:22:49.0000000
+Saint Vincent and the Grenadines,VC,VCT,670,FALSE,🇻🇨,1784,,7340,2018-05-01 18:23:07.0000000
+Samoa,WS,WSM,882,FALSE,🇼🇸,685,,4070,2018-05-01 18:23:08.0000000
+San Marino,SM,SMR,674,FALSE,🇸🇲,378,,,2018-05-01 18:23:02.0000000
+Sao Tome and Principe,ST,STP,678,FALSE,🇸🇹,239,,2070,2018-05-01 18:23:03.0000000
+Saudi Arabia,SA,SAU,682,FALSE,🇸🇦,966,,21930,2017-09-13 14:12:22.0000000
+Senegal,SN,SEN,686,FALSE,🇸🇳,221,,1430,2017-11-22 17:00:24.0000000
+Serbia,RS,SRB,688,FALSE,🇷🇸,381,,7400,2017-11-17 14:48:04.0000000
+Seychelles,SC,SYC,690,FALSE,🇸🇨,248,,12720,2018-05-01 18:23:00.0000000
+Sierra Leone,SL,SLE,694,FALSE,🇸🇱,232,,490,2018-05-01 18:23:02.0000000
+Singapore,SG,SGP,702,FALSE,🇸🇬,65,,54920,2016-12-20 12:28:37.0000000
+Slovakia,SK,SVK,703,TRUE,🇸🇰,421,,18700,2016-11-11 08:53:03.0000000
+Slovenia,SI,SVN,705,TRUE,🇸🇮,386,,25940,2016-11-11 08:53:03.0000000
+Solomon Islands,SB,SLB,90,FALSE,🇸🇧,677,,2300,2018-05-01 18:23:00.0000000
+Somalia,SO,SOM,706,FALSE,🇸🇴,252,,310,2018-05-01 18:23:02.0000000
+South Africa,ZA,ZAF,710,FALSE,🇿🇦,27,,5410,2016-11-11 08:53:03.0000000
+South Korea,KR,KOR,410,FALSE,🇰🇷,82,,32860,2016-11-11 08:53:03.0000000
+Spain,ES,ESP,724,TRUE,🇪🇸,34,,30360,2016-11-11 08:53:03.0000000
+Sri Lanka,LK,LKA,144,FALSE,🇱🇰,94,,3720,2017-11-02 18:37:06.0000000
+Sudan,SD,SDN,729,FALSE,🇸🇩,249,,650,2018-05-01 18:23:01.0000000
+Suriname,SR,SUR,740,FALSE,🇸🇷,597,,5510,2018-05-01 18:23:02.0000000
+Swaziland,SZ,SWZ,748,FALSE,🇸🇿,268,,3580,2018-05-01 18:23:03.0000000
+Sweden,SE,SWE,752,TRUE,🇸🇪,46,,53800,2016-11-11 08:53:03.0000000
+Switzerland,CH,CHE,756,FALSE,🇨🇭,41,,85490,2016-11-24 20:47:02.0000000
+Syria,SY,SYR,760,FALSE,🇸🇾,963,,,2018-05-01 18:23:03.0000000
+Taiwan,TW,TWN,158,FALSE,🇹🇼,886,,586574095640,2016-11-11 08:53:03.0000000
+Tajikistan,TJ,TJK,762,FALSE,🇹🇯,992,,1060,2018-05-01 18:23:04.0000000
+Tanzania,TZ,TZA,834,FALSE,🇹🇿,255,,1080,2018-05-01 18:23:06.0000000
+Thailand,TH,THA,764,FALSE,🇹🇭,66,,7050,2017-05-23 14:19:34.0000000
+Togo,TG,TGO,768,FALSE,🇹🇬,228,,920,2018-05-01 18:23:04.0000000
+Tonga,TO,TON,776,FALSE,🇹🇴,676,,5000,2018-05-01 18:23:05.0000000
+Trinidad and Tobago,TT,TTO,780,FALSE,🇹🇹,1868,,15410,2018-05-01 18:23:05.0000000
+Tunisia,TN,TUN,788,FALSE,🇹🇳,216,,3100,2018-05-01 18:23:05.0000000
+Turkey,TR,TUR,792,FALSE,🇹🇷,90,,9050,2016-11-11 08:53:03.0000000
+Turkmenistan,TM,TKM,795,FALSE,🇹🇲,993,,7220,2018-05-01 18:23:04.0000000
+Tuvalu,TV,TUV,798,FALSE,🇹🇻,688,,5820,2018-05-01 18:23:05.0000000
+Uganda,UG,UGA,800,FALSE,🇺🇬,256,,800,2017-07-26 14:30:59.0000000
+Ukraine,UA,UKR,804,FALSE,🇺🇦,380,,3540,2018-05-01 18:23:06.0000000
+United Arab Emirates,AE,AR3,784,FALSE,🇦🇪,971,,43470,2016-11-11 08:53:03.0000000
+United Kingdom,GB,GBR,826,TRUE,🇬🇧,44,,42220,2016-11-11 08:53:03.0000000
+United States of America,US,USA,840,FALSE,🇺🇸,1,United States,65850,2016-11-11 08:53:03.0000000
+Uruguay,UY,URY,858,FALSE,🇺🇾,598,,15830,2018-05-01 18:23:06.0000000
+Uzbekistan,UZ,UZB,860,FALSE,🇺🇿,998,,1670,2018-05-01 18:23:07.0000000
+Vanuatu,VU,VUT,548,FALSE,🇻🇺,678,,2780,2018-05-01 18:23:08.0000000
+Venezuela,VE,VEN,862,FALSE,🇻🇪,58,,,2018-05-01 18:23:07.0000000
+Vietnam,VN,VNM,704,FALSE,🇻🇳,84,,2660,2017-07-18 14:31:51.0000000
+Yemen,YE,YEM,887,FALSE,🇾🇪,967,,940,2018-05-01 18:23:08.0000000
+Zambia,ZM,ZMB,894,FALSE,🇿🇲,260,,1190,2018-05-01 18:23:09.0000000

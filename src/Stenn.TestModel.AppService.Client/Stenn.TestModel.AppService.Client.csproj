@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Stenn.AppData.Contracts\Stenn.AppData.Contracts.csproj" />
+    <ProjectReference Include="..\Stenn.TestModel.AppService.Contracts\Stenn.TestModel.AppService.Contracts.csproj" />
+  </ItemGroup>
+</Project>

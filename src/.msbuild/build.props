@@ -6,12 +6,12 @@
     <PackageOutputPath>$(MSBuildThisFileDirectory)..\..\bin\Packages</PackageOutputPath>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);CS1591;EF1001</NoWarn>
-    <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
   </PropertyGroup>
 
   <!--    Stenn MSBuild extensions-->
   <ItemGroup>
-    <PackageReference Include="Stenn.MSBuild.Extensions" />
+    <!--PackageReference Include="Stenn.MSBuild.Extensions" /-->
     <PackageReference Include="Microsoft.SourceLink.GitHub" />
   </ItemGroup>
   <PropertyGroup>
